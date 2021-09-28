@@ -3,7 +3,7 @@
 require_relative "fk_view_tool/version"
 require_relative "fk_view_tool/renderer"
 
-module FkViewTool
-  class Error < StandardError; end
-  # Your code goes here...
-end
+# module FkViewTool
+#   class Error < StandardError; end
+#   # Your code goes here...
+# end
