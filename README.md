@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-FkViewTool::Renderer.copyright 'F.Knottenbelt', 'All rights reserved'
+FkViewTool::Renderer.copyright 'Jane Doe', 'All rights reserved'
 ```
 
 ## Development
